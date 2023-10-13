@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    background-color: #34e1eb;
+}
+
+#dog-image {
+    height: 450px;
+    width: 450px;
+    border-radius: 50%;
+    border: 10px solid red;
+    padding: 30px 5px;
+    margin-left: 50px;
+}
+
+h1 {
+    text-align: center; 
+}
+
+h1, h2 {
+    font-family:'Courier New', Courier, monospace;
+}
+
+a {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+ul {
+    color: red;
+}
+
+ol {
+    color: green;
+}
